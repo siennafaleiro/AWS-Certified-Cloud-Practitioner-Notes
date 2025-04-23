@@ -42,3 +42,5 @@ If this guide has been helpful to you please share it with others and react to t
 **[Buy Practice Exams PDF](https://ko-fi.com/s/26525f2067)** &nbsp; &nbsp; &nbsp;
 
 Purchase an PDF on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://a.co/d/7ERcTBI) (free for kindle unlimited users)**
+
+### Related Products: [AWS CLF-C02 Certification Exam Sample Questions](https://www.vmexam.com/aws/aws-clf-c02-certification-exam-sample-questions)
