@@ -15,7 +15,8 @@
 
 Purchase a PDF on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://a.co/d/bvPmN94) (For kindle unlimited users)**
 
-Purchase a PDF on **Leanpub**: [AWS Cloud Practitioner Study Notes (CLF-C02) PDF](https://leanpub.com/aws-cloud-practitioner-study-notes)
+- Purchase a PDF on **Leanpub**: [AWS Cloud Practitioner Study Notes (CLF-C02) PDF](https://leanpub.com/aws-cloud-practitioner-study-notes)
+- Free PDF on PDFHost IO: **PDFHost**: [Useful Questions For AWS CLF-C02 Certification Success](https://pdfhost.io/v/O~N~D5yDf_Useful_Questions_for_AWS_CLFC02_Certification_Success) 
 
 Each Section contains a number of units. **Below Table Link** containing information about each sections in detail.
 
@@ -64,12 +65,14 @@ Each Section contains a number of units. **Below Table Link** containing informa
 
 ## Practice Exams ( dumps )
 
-- **[Practice Exam List](https://kananinirav.com/practice-exam/exams.html)**
+- **[Practice Exam List 1](https://kananinirav.com/practice-exam/exams.html)**
+- **[Practice Exam List 2](https://www.vmexam.com/aws/aws-clf-c02-certification-exam-sample-questions)**
 
 ## Other AWS And Azure Certification Notes
 
 - [Microsoft Azure Fundamentals (AZ-900)](https://certification.kananinirav.com/az-900-microsoft-azure-fundamentals/)
 - [Useful Cheat Sheet For Developers](https://certification.kananinirav.com/cheat-sheets/)
+- [AWS Cloud Practitioner](https://www.vmexam.com/aws/clf-c02-aws-cloud-practitioner)
 
 ### If you find the content of this website interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee
 
