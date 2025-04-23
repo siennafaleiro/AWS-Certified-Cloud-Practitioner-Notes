@@ -684,3 +684,4 @@ layout: exam
 
     </details>
 
+### Related Products: [AWS CLF-C02 Certification Exam Sample Questions](https://www.vmexam.com/aws/aws-clf-c02-certification-exam-sample-questions)
