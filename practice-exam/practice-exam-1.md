@@ -515,3 +515,5 @@ layout: exam
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
+
+### Related Products: [AWS CLF-C02 Certification Exam Sample Questions](https://www.vmexam.com/aws/aws-clf-c02-certification-exam-sample-questions)
